@@ -1,0 +1,6 @@
+E:\BSS_Project\AccessControl\DLL\ErrorHandler\bin\Release\ErrorHandler.dll
+E:\BSS_Project\AccessControl\DLL\ErrorHandler\bin\Release\ErrorHandler.pdb
+E:\BSS_Project\AccessControl\DLL\ErrorHandler\obj\Release\ErrorHandler.dll
+E:\BSS_Project\AccessControl\DLL\ErrorHandler\obj\Release\ErrorHandler.pdb
+C:\Program Files (x86)\AccessControl\Bin\ErrorHandler.dll
+C:\Program Files (x86)\AccessControl\Bin\ErrorHandler.pdb

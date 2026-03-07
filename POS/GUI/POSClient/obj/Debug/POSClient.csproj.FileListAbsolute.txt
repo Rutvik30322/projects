@@ -1,0 +1,36 @@
+C:\Program Files (x86)\BeSpokePOS\Bin\POSClient.exe.config
+C:\Program Files (x86)\BeSpokePOS\Bin\POSClient.exe
+C:\Program Files (x86)\BeSpokePOS\Bin\POSClient.pdb
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.csproj.AssemblyReference.cache
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.Properties.Resources.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.csproj.GenerateResource.cache
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.exe
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.pdb
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.MDIMain.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.Login.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmHome.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmPurchase.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmLogin.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmPurchaseView.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmInventory.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmAddUsers.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmUOM.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmUsers.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmSales.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.Masters.frmAddSupplier.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmSupplier.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.csproj.CopyComplete
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmChangePassword.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmResetPassword.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmSettings.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmReport.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmSalesView.resources
+C:\Program Files (x86)\BeSpokePOS\Bin\SqlServerTypes\x64\msvcr120.dll
+C:\Program Files (x86)\BeSpokePOS\Bin\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Program Files (x86)\BeSpokePOS\Bin\SqlServerTypes\x86\msvcr120.dll
+C:\Program Files (x86)\BeSpokePOS\Bin\SqlServerTypes\x86\SqlServerSpatial140.dll
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmAuditRecords.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmMaterial.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmUpdatePaymentStaus.resources
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\GUI\POSClient\obj\Debug\POSClient.frmInventoryDetails.resources

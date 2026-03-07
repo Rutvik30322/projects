@@ -1,0 +1,85 @@
+E:\BSS_Project\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+E:\BSS_Project\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+D:\BSS_Project\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+D:\BSS_Project\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+C:\Program Files (x86)\IAS\Bin\DatabaseHandler.dll
+C:\Program Files (x86)\IAS\Bin\DatabaseHandler.pdb
+C:\BSS_Projects\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csprojResolveAssemblyReference.cache
+C:\BSS_Projects\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+C:\BSS_Projects\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+E:\Code_Backup\IAS_Divya\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csprojResolveAssemblyReference.cache
+E:\Code_Backup\IAS_Divya\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+E:\Code_Backup\IAS_Divya\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+E:\BSS_Project\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csprojResolveAssemblyReference.cache
+D:\RCD_21032021\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+D:\RCD_21032021\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+D:\RCD_21032021\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+F:\BSS_Projects\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CoreCompileInputs.cache
+F:\BSS_Projects\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+F:\BSS_Projects\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+F:\BSS_Projects\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+D:\BSS_Projects\RCD\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csprojAssemblyReference.cache
+D:\BSS_Projects\RCD\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+D:\BSS_Projects\RCD\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+D:\BSS_Projects\RCD\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+D:\BSS_Projects\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+D:\BSS_Projects\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+D:\BSS_Projects\IAS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+E:\BSS_Project\RCD_001_Nyra_Gandhidham\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+E:\BSS_Project\RCD_001_Nyra_Gandhidham\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+E:\BSS_Project\RCD_001_Nyra_Gandhidham\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csprojResolveAssemblyReference.cache
+C:\Program Files (x86)\RCD\Bin\DatabaseHandler.dll
+C:\Program Files (x86)\RCD\Bin\DatabaseHandler.pdb
+E:\BSS_Project\RCD_002_IOCL_Jalandhar\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+E:\BSS_Project\RCD_002_IOCL_Jalandhar\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+E:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+E:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+E:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csprojResolveAssemblyReference.cache
+F:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csprojAssemblyReference.cache
+F:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+F:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+F:\BSS_Project\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+E:\BSS_Projects\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csprojAssemblyReference.cache
+E:\BSS_Projects\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+E:\BSS_Projects\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+E:\BSS_Projects\RCD_003_IOCL_GOOTY\RCD\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+E:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.AssemblyReference.cache
+E:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CoreCompileInputs.cache
+E:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+E:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+C:\Program Files (x86)\BeSpokeERP\Bin\DatabaseHandler.dll
+C:\Program Files (x86)\BeSpokeERP\Bin\DatabaseHandler.pdb
+D:\BSS_Projects\ERP_001_Keshav\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.AssemblyReference.cache
+D:\BSS_Projects\ERP_001_Keshav\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\ERP_001_Keshav\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+D:\BSS_Projects\ERP_001_Keshav\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+D:\BSS_Projects\ERP_001_Keshav\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+E:\BSS_Projects\ERP_001_Keshav\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.AssemblyReference.cache
+E:\BSS_Projects\ERP_001_Keshav\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CoreCompileInputs.cache
+E:\BSS_Projects\ERP_001_Keshav\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+E:\BSS_Projects\ERP_001_Keshav\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+E:\BSS_Projects\ERP_001_Keshav\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+D:\BSS_Projects\ERP_001_Keshav\1.Client-Web-Source\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.AssemblyReference.cache
+D:\BSS_Projects\ERP_001_Keshav\1.Client-Web-Source\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\ERP_001_Keshav\1.Client-Web-Source\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+D:\BSS_Projects\ERP_001_Keshav\1.Client-Web-Source\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+D:\BSS_Projects\ERP_001_Keshav\1.Client-Web-Source\BeSpokeERP\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+C:\Program Files (x86)\HRMitra\Bin\DatabaseHandler.dll
+C:\Program Files (x86)\HRMitra\Bin\DatabaseHandler.pdb
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitra\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitra\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitra\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+D:\BSS_Projects\HRMitra\1.Client-Web-Source\HRMitra\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+D:\BSS_Projects\HRMitra\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.AssemblyReference.cache
+D:\BSS_Projects\HRMitra\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\HRMitra\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CopyComplete
+D:\BSS_Projects\HRMitra\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+D:\BSS_Projects\HRMitra\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
+C:\Program Files (x86)\HRMitra\BinUAT\DatabaseHandler.dll
+C:\Program Files (x86)\HRMitra\BinUAT\DatabaseHandler.pdb
+C:\Program Files (x86)\BeSpokePOS\Bin\DatabaseHandler.dll
+C:\Program Files (x86)\BeSpokePOS\Bin\DatabaseHandler.pdb
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.AssemblyReference.cache
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.csproj.CoreCompileInputs.cache
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.dll
+D:\BSS_Projects\POS001\1.Client-Web-Source\POS\DLL\DatabaseHandler\obj\Debug\DatabaseHandler.pdb
