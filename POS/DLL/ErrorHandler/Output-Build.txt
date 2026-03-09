@@ -1,5 +1,0 @@
-﻿Build started...
-1>------ Build started: Project: MaterialSkin (DLL\MaterialSkin\MaterialSkin), Configuration: Debug Any CPU ------
-1>E:\BSS_Projects\ERP_001_Avighna\BeSpokeERP\DLL\MaterialSkin\Controls\MaterialScrollBar.cs(139,22,139,31): warning CS0414: The field 'MaterialScrollBar.isPressed' is assigned but its value is never used
-1>  MaterialSkin -> C:\Program Files (x86)\BeSpokeERP\Bin\MaterialSkin.dll
-========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
