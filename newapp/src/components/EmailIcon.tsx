@@ -1,0 +1,20 @@
+import React from 'react';
+import Svg, { Path } from 'react-native-svg';
+
+interface EmailIconProps {
+  size?: number;
+  color?: string;
+}
+
+const EmailIcon: React.FC<EmailIconProps> = ({ size = 14, color = '#381230' }) => {
+  return (
+    <Svg width={size} height={size * 0.857} viewBox="0 0 14 12" fill="none">
+      <Path
+        d="M0.7 0H13.3C13.6866 0 14 0.29848 14 0.666667V11.3333C14 11.7015 13.6866 12 13.3 12H0.7C0.313404 12 0 11.7015 0 11.3333V0.666667C0 0.29848 0.313404 0 0.7 0ZM7.04242 5.7886L2.55305 2.15847L1.64695 3.17487L7.05117 7.54473L12.3581 3.17077L11.4419 2.16256L7.04242 5.7886Z"
+        fill={color}
+      />
+    </Svg>
+  );
+};
+
+export default EmailIcon;

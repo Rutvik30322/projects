@@ -1,0 +1,45 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "src/assets/fonts/Alexandria-Black.ttf",
+      "sha1": "f0caca5cc5e271a79993918bc117ead66c81de9a"
+    },
+    {
+      "path": "src/assets/fonts/Alexandria-Bold.ttf",
+      "sha1": "c1cb3750dd035bdeeb13a7fa93fbce4c094d8835"
+    },
+    {
+      "path": "src/assets/fonts/Alexandria-ExtraBold.ttf",
+      "sha1": "cce665b0d8a2ce797936564e09e5cd57afb401c4"
+    },
+    {
+      "path": "src/assets/fonts/Alexandria-ExtraLight.ttf",
+      "sha1": "ea683e22ac0aba96bf573f5fa30d0ea6cb534529"
+    },
+    {
+      "path": "src/assets/fonts/Alexandria-Light.ttf",
+      "sha1": "6ea5fda942a8d4fa1eafd21b90efd62b7dc102e4"
+    },
+    {
+      "path": "src/assets/fonts/Alexandria-Medium.ttf",
+      "sha1": "2a34b2d54cffdb6e8ec93c9fa0ce2ac4669f5ee7"
+    },
+    {
+      "path": "src/assets/fonts/Alexandria-Regular.ttf",
+      "sha1": "4e15c32ad5a28bfe1db4f0ddf8540d851c643ed6"
+    },
+    {
+      "path": "src/assets/fonts/Alexandria-SemiBold.ttf",
+      "sha1": "98cbccec195992416232a18d5b73630fa80dafa6"
+    },
+    {
+      "path": "src/assets/fonts/Alexandria-Thin.ttf",
+      "sha1": "63656285e2eee336d1350737ae9ad19485a75845"
+    },
+    {
+      "path": "src/assets/fonts/README.md",
+      "sha1": "a8b99b3c7344884e29da672dcaaefa21ef3526e4"
+    }
+  ]
+}
